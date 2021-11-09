@@ -1,2 +1,2 @@
 # responsiveborder
-Responsive border calculation.
+Responsive border calculation for text borders.
